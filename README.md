@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jhonata Ramos
 
-- 🔭 I’m Jr. Software Developer at RDI SOFTWARE
+- 🔭 I’m Software Developer at IBM
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/Him
 
