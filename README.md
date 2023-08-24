@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/Him
 
-![Status](https://github-readme-stats.vercel.app/api?username=jhonatabezerra&show_icons=true&theme=Gradient)
+![Status](https://github-readme-stats.vercel.app/api?username=jhonatabezerra&rank_icon=github&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatabezerra&hide_progress=true&theme=tokyonight)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -22,8 +23,6 @@
   <a href="https://www.youtube.com/channel/UCsT19kXNYlIDLVTwIYUkraA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jhonata.bezerra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonata-ramos-115726139" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![screencast](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
-
- 
 </div>
+
+![screencast](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
