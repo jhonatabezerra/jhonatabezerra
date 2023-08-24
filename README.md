@@ -1,15 +1,10 @@
 ## Hi there 👋 I'm Jhonata Ramos
 
-- 🔭 I’m Software Developer at IBM
+- 🔭 I’m a Software Developer at IBM
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/Him
 
-<div align="center">
-  <a href="https://github.com/jhonatabezerra">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jhonatabezerra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatabezerra&layout=compact&langs_count=7&theme=blue-green"/> --->
-  <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatabezerra&theme=blue-green"/>    
-</div>
+![Status](https://github-readme-stats.vercel.app/api?username=jhonatabezerra&show_icons=true&theme=Gradient)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
