@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jhonata Ramos
 
-- 🔭 I’m a Software Developer at Alter Solutions
-- 🌱 I’m currently learning Azure
+- 🔭 I’m a Software Developer at IT People
+- 🌱 I’m currently learning Angular 18
 - ✈️ I'm currently living in Portugal
 - ⚽ I'm from Brazil
 
