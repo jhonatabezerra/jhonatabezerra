@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Jhonata Ramos
 
 - 🔭 I’m a Software Developer at IT People
-- 🌱 I’m currently learning Angular 18
+- 🌱 I’m currently learning Angular 21
 - ✈️ I'm currently living in Portugal
 - ⚽ I'm from Brazil
 
-![Status](https://github-readme-stats.vercel.app/api?username=jhonatabezerra&rank_icon=github&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatabezerra&hide_progress=true&theme=tokyonight)
+My LinkedIn: https://www.linkedin.com/in/jhonata-ramos/
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
